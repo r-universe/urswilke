@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/urswilke/urswilke.r-universe.dev
 	branch = HEAD
+[submodule "flametree"]
+	path = flametree
+	url = https://github.com/djnavarro/flametree
+	registered = false
 [submodule "fluidsynth"]
 	path = fluidsynth
 	url = https://github.com/ropensci/fluidsynth
@@ -9,6 +13,10 @@
 [submodule "ggbenjamini"]
 	path = ggbenjamini
 	url = https://github.com/urswilke/ggbenjamini
+[submodule "minisvg"]
+	path = minisvg
+	url = https://github.com/coolbutuseless/minisvg
+	registered = false
 [submodule "pichor"]
 	path = pichor
 	url = https://github.com/mikldk/pichor

@@ -1,9 +1,21 @@
 [
   {
+    "package": "flametree",
+    "url": "https://github.com/djnavarro/flametree",
+    "via": ["ggbenjamini"],
+    "from": "ggbenjamini"
+  },
+  {
     "package": "fluidsynth",
     "url": "https://github.com/ropensci/fluidsynth",
     "via": ["pyramidi"],
     "from": "pyramidi"
+  },
+  {
+    "package": "minisvg",
+    "url": "https://github.com/coolbutuseless/minisvg",
+    "via": ["ggbenjamini"],
+    "from": "ggbenjamini"
   },
   {
     "package": "pichor",
