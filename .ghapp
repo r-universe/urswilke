@@ -1,0 +1,10 @@
+{
+  "id": 47402083,
+  "created_at": "2024-02-16T23:49:51.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["pyramidi"]
+}
