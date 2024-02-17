@@ -2,10 +2,14 @@
 	path = .registry
 	url = https://github.com/urswilke/urswilke.r-universe.dev
 	branch = HEAD
+[submodule "fluidsynth"]
+	path = fluidsynth
+	url = https://github.com/ropensci/fluidsynth
+	registered = false
+[submodule "pichor"]
+	path = pichor
+	url = https://github.com/mikldk/pichor
+	registered = false
 [submodule "pyramidi"]
 	path = pyramidi
 	url = https://github.com/urswilke/pyramidi
-[submodule "raudiomate"]
-	path = raudiomate
-	url = https://github.com/urswilke/raudiomate
-	registered = false
