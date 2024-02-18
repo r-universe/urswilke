@@ -6,6 +6,9 @@
 	path = fluidsynth
 	url = https://github.com/ropensci/fluidsynth
 	registered = false
+[submodule "ggbenjamini"]
+	path = ggbenjamini
+	url = https://github.com/urswilke/ggbenjamini
 [submodule "pichor"]
 	path = pichor
 	url = https://github.com/mikldk/pichor
