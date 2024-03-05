@@ -6,12 +6,6 @@
     "from": "ggbenjamini"
   },
   {
-    "package": "fluidsynth",
-    "url": "https://github.com/ropensci/fluidsynth",
-    "via": ["pyramidi"],
-    "from": "pyramidi"
-  },
-  {
     "package": "minisvg",
     "url": "https://github.com/coolbutuseless/minisvg",
     "via": ["ggbenjamini"],

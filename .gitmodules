@@ -6,10 +6,6 @@
 	path = flametree
 	url = https://github.com/djnavarro/flametree
 	registered = false
-[submodule "fluidsynth"]
-	path = fluidsynth
-	url = https://github.com/ropensci/fluidsynth
-	registered = false
 [submodule "ggbenjamini"]
 	path = ggbenjamini
 	url = https://github.com/urswilke/ggbenjamini
