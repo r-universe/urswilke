@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/urswilke/urswilke.r-universe.dev
 	branch = HEAD
+[submodule "crosstabser"]
+	path = crosstabser
+	url = https://gitlab.com/urswilke/crosstabser
+[submodule "datadaptor"]
+	path = datadaptor
+	url = https://gitlab.com/urswilke/datadaptor
 [submodule "flametree"]
 	path = flametree
 	url = https://github.com/djnavarro/flametree
