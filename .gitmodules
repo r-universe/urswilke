@@ -14,7 +14,7 @@
 	registered = false
 [submodule "ggbenjamini"]
 	path = ggbenjamini
-	url = https://github.com/urswilke/ggbenjamini
+	url = https://codeberg.org/urswilke/ggbenjamini
 [submodule "minisvg"]
 	path = minisvg
 	url = https://github.com/coolbutuseless/minisvg
