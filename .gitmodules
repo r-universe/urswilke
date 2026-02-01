@@ -8,21 +8,9 @@
 [submodule "datadaptor"]
 	path = datadaptor
 	url = https://gitlab.com/urswilke/datadaptor
-[submodule "flametree"]
-	path = flametree
-	url = https://github.com/djnavarro/flametree
-	registered = false
 [submodule "ggbenjamini"]
 	path = ggbenjamini
 	url = https://codeberg.org/urswilke/ggbenjamini
-[submodule "minisvg"]
-	path = minisvg
-	url = https://github.com/coolbutuseless/minisvg
-	registered = false
-[submodule "pichor"]
-	path = pichor
-	url = https://github.com/mikldk/pichor
-	registered = false
 [submodule "pyramidi"]
 	path = pyramidi
 	url = https://github.com/urswilke/pyramidi
