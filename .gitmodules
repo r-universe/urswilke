@@ -4,13 +4,10 @@
 	branch = HEAD
 [submodule "crosstabser"]
 	path = crosstabser
-	url = https://gitlab.com/urswilke/crosstabser
+	url = https://codeberg.org/urswilke/crosstabser
 [submodule "datadaptor"]
 	path = datadaptor
-	url = https://gitlab.com/urswilke/datadaptor
+	url = https://codeberg.org/urswilke/datadaptor
 [submodule "ggbenjamini"]
 	path = ggbenjamini
 	url = https://codeberg.org/urswilke/ggbenjamini
-[submodule "pyramidi"]
-	path = pyramidi
-	url = https://github.com/urswilke/pyramidi
